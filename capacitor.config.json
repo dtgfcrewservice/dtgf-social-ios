@@ -1,0 +1,1 @@
+{"appId":"com.dtgfsocial.app","appName":"DTGF Social","ios":{"backgroundColor":"#000000","contentInset":"always","limitsNavigationsToAppBoundDomains":false},"plugins":{"Camera":{"permissions":["camera","photos"]},"PushNotifications":{"presentationOptions":["badge","sound","alert"]}},"server":{"cleartext":false,"url":"https://dtgfsocial.com"},"webDir":"www"}

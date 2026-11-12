@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# iOS build artifacts (Pods and DerivedData also covered by ios/.gitignore)
+ios/App/Pods/
+ios/DerivedData/
+DerivedData/
+build/
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+
+# macOS
+.DS_Store
